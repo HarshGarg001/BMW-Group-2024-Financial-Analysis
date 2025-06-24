@@ -62,9 +62,9 @@ This project is a comprehensive **financial analysis of BMW Group** based on its
 
 ## ✍️ Author
 
-[Your Name]  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [Your GitHub Username]  
+Harsh Garg  
+LinkedIn: [Harsh Garg](https://www.linkedin.com/in/harsh-garg-54216820b/)  
+Email: harshgarg1921@gmail.com  
 
 ---
 
